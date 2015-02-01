@@ -1,0 +1,106 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "wangqile123@gmail.com",
+    "longName": "Pebble Change",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/stopDropSelfieAbout.png",
+                "name": "IMAGES_STOPDROPSELFIEABOUT_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/noHairSelfieAbout.png",
+                "name": "IMAGES_NOHAIRSELFIEABOUT_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/bellLetsTalkAbout.png",
+                "name": "IMAGES_BELLLETSTALKABOUT_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/alsaAbout.png",
+                "name": "IMAGES_ALSAABOUT_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/5National.png",
+                "name": "IMAGES_5NATIONAL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/5Local.png",
+                "name": "IMAGES_5LOCAL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/5International.png",
+                "name": "IMAGES_5INTERNATIONAL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/2National.png",
+                "name": "IMAGES_2NATIONAL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/2International.png",
+                "name": "IMAGES_2INTERNATIONAL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/2locally.png",
+                "name": "IMAGES_2LOCALLY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/1nationally.png",
+                "name": "IMAGES_1NATIONALLY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/1locally.png",
+                "name": "IMAGES_1LOCALLY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/1internationally.png",
+                "name": "IMAGES_1INTERNATIONALLY_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Pebble Change",
+    "uuid": "0ca17cd1-8e77-42d9-8ca6-b24d6aa2cd65",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
